@@ -1,6 +1,6 @@
 # Hi, I'm Liz Myers
 
-**Creative Technologist and Solutions Architect** bridging design and AI. I spent nine years as a Senior UX Designer in London (Adobe, Visa, Vodafone), then moved into solutions architecture and developer advocacy at Amazon and Google Cloud. Today I prototype AI-powered experiences that unlock new kinds of value for creative and cultural institutions.
+**Creative Technologist and Solutions Architect** bridging design and AI. I spent nine years as a Senior UX Designer in London (Adobe, Visa, Vodafone), then moved into solutions architecture and developer advocacy at Amazon and Google Cloud. Today I'm exploring how AI can transform the way we experience cultural heritage.
 
 Dual UK/US citizen. Five languages. I build with Claude Code, React, Next.js, TypeScript, and Python.
 
