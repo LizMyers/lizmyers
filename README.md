@@ -8,7 +8,7 @@ Dual UK/US citizen. Five languages. I build with Claude Code, React, Next.js, Ty
 
 ### Featured Projects
 
-**London Blue Plaques** — iOS app that transforms 900+ English Heritage plaques into AI-curated walking tours of London. Claude plans routes around your interests; historical figures speak to you via Figma Weave and Veo 3. Drag-to-reorder stops and the map adapts in real time. Built in days with Claude Code.
+**LondonLore.uk** — iOS app that transforms 900+ English Heritage plaques into AI-curated walking tours of London. Claude plans routes around your interests; historical figures speak to you via Figma Weave and Veo 3. Drag-to-reorder stops and the map adapts in real time. Built in days with Claude Code.
 
 **LingoWise.ai** — Multi-platform language learning ecosystem (web, Chrome extension, mobile). Capture words in the wild, hear native pronunciation, and practice speaking with your AI tutor. Built with Next.js, Gemini API, and Transformers.js.
 
