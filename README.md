@@ -8,11 +8,17 @@ Dual UK/US citizen. Five languages. I build with Claude Code, React, Next.js, Ty
 
 ### Featured Projects
 
+**[Simon Says with Microduck](https://github.com/LizMyers/micro-duck)** — A simulated Microduck from Pollen Robotics plays Simon Says with you. A webcam referee checks your moves, and Simon gloats when he catches you out. Hugging Face speech-to-speech and open models from the Hub, all running locally on a Mac. [Watch the demo ▶](https://youtu.be/OYO-a5_Stlw)
+
 **LondonLore.uk** — iOS app that transforms 900+ English Heritage plaques into AI-curated walking tours of London. Claude plans routes around your interests; historical figures speak to you via Figma Weave and Veo 3. Drag-to-reorder stops and the map adapts in real time. Built in days with Claude Code.
 
 **LingoWise.ai** — Multi-platform language learning ecosystem (web, Chrome extension, mobile). Capture words in the wild, hear native pronunciation, and practice speaking with your AI tutor. Built with Next.js, Gemini API, and Transformers.js.
 
-**Quiz-Genie.ai** — RAG application that generates custom quizzes from the Claude Developer Guide. GitHub automations keep content synced with official docs. Built on the Claude API.
+---
+
+### Open Source
+
+**[huggingface/speech-to-speech #721](https://github.com/huggingface/speech-to-speech/pull/721)** — Makes tool calling robust for small local models: handles native `<tool_call>` blocks and keeps tool markup out of the spoken reply. Found while building Simon.
 
 ---
 
