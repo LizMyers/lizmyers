@@ -1,7 +1,8 @@
 # Hi, I'm Liz Myers
 
-**Creative Technologist and Solutions Architect** bridging design and AI. I spent nine years as a Senior UX Designer in London (Adobe, Visa, Vodafone), then moved into solutions architecture and developer advocacy at Amazon and Google Cloud.  Now I design, build and ship AI products end to end: voice agents, mobile apps, developer tools.
-
+**Design engineer and developer advocate**. Nine years as a senior UX designer in London (Adobe, Visa, Vodafone), then solutions architecture and developer advocacy at Amazon and Google Cloud. Now I design, build and ship AI products end to end: voice agents, generative data pipelines, mobile apps, developer tools.
+▎
+▎ I work with coding agents every day, and I own what they produce: tests, debugging, and fixes sent upstream when the bug isn't mine.
 Dual UK/US citizen. Five languages. I build with Claude Code, React, Next.js, TypeScript, and Python.
 
 ---
