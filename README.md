@@ -10,7 +10,7 @@ Dual UK/US citizen. Five languages. I build with Claude Code, React, Next.js, Ty
 
 **[Simon Says with Microduck](https://github.com/LizMyers/micro-duck)** — A simulated Microduck from Pollen Robotics plays Simon Says with you. A webcam referee checks your moves, and Simon gloats when he catches you out. Hugging Face speech-to-speech and open models from the Hub, all running locally on a Mac. [Watch the demo ▶](https://youtu.be/OYO-a5_Stlw)
 
-**LondonLore.uk** — iOS app that transforms 900+ English Heritage plaques into AI-curated walking tours of London. Claude plans routes around your interests; historical figures speak to you via Figma Weave and Veo 3. Drag-to-reorder stops and the map adapts in real time. Built in days with Claude Code.
+**LondonLore.uk** — iOS app that transforms 900+ English Heritage plaques into AI-curated walking tours of London. Claude plans routes around your interests; historical figures speak to you via Figma Weave and Veo 3. Drag-to-reorder stops and the map adapts in real time. 
 
 **LingoWise.ai** — Multi-platform language learning ecosystem (web, Chrome extension, mobile). Capture words in the wild, hear native pronunciation, and practice speaking with your AI tutor. Built with Next.js, Gemini API, and Transformers.js.
 
