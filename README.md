@@ -19,7 +19,7 @@ Dual US/UK citizen. Five languages. I build with Claude Code, React, Next.js, Ty
 
 ### Open Source
 
-**[huggingface/speech-to-speech #721](https://github.com/huggingface/speech-to-speech/pull/721)** — Makes tool calling robust for small local models: handles native `<tool_call>` blocks and keeps tool markup out of the spoken reply. Found while building Simon.
+**[huggingface/speech-to-speech #721](https://github.com/huggingface/speech-to-speech/pull/721)** — Merged October 2026. Makes tool calling robust for small local models: handles native `<tool_call>` blocks and keeps tool markup out of the spoken reply. Found while building Simon.
 
 ---
 
